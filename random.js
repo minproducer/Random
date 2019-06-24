@@ -1,3 +1,6 @@
+/*Author: MonokaiJS
+Type: Min*/
+
 var tacpham = [{
 	name: "Vợ Nhặt (Kim Lân)",
 	count: 0
